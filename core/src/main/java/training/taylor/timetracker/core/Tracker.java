@@ -6,6 +6,12 @@ import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.List;
 
+
+/**
+ * My <b>class</b>.
+ *
+ * @see Annotation
+ */
 @Component
 public class Tracker {
     @Autowired
